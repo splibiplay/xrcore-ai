@@ -7,6 +7,11 @@
 
 `com.xrcore.ai` is the neutral AI capability layer for XRCore modules.
 
+## GitHub policy
+
+This repository is maintained as **documentation + contract guidance**.
+Runtime package delivery is handled through Unity package distribution.
+
 ## Published foundation (Unity Asset Store)
 
 Install the core SDK from Unity first, then add this module via Git URL:
@@ -41,22 +46,21 @@ Domain modules register capabilities
 Adapters (MCP and future adapters) expose tools externally
 ```
 
-## Related XRCore Modules
+## Ecosystem map
 
-[![Hub — splibiplay](https://img.shields.io/badge/Hub-splibiplay-24292f?style=flat-square)](https://github.com/splibiplay/splibiplay)
-[![Unity Asset Store — XRCore](https://img.shields.io/badge/Unity%20Store-XRCore-f59e0b?style=flat-square)](https://assetstore.unity.com/packages/tools/ai-ml-integration/xrcore-event-driven-ai-framework-for-unity-xr-366852)
-
-[![xrcore-sdk](https://img.shields.io/badge/GitHub-xrcore--sdk-2563eb?style=flat-square)](https://github.com/splibiplay/xrcore-sdk)
-[![xrcore-context](https://img.shields.io/badge/GitHub-xrcore--context-0e7490?style=flat-square)](https://github.com/splibiplay/xrcore-context)
-[![xrcore-training-toolkit](https://img.shields.io/badge/GitHub-training--toolkit-7c3aed?style=flat-square)](https://github.com/splibiplay/xrcore-training-toolkit)
-[![xrcore-assessment](https://img.shields.io/badge/GitHub-assessment-db2777?style=flat-square)](https://github.com/splibiplay/xrcore-assessment)
-[![xrcore-training-authoring](https://img.shields.io/badge/GitHub-authoring-c2410c?style=flat-square)](https://github.com/splibiplay/xrcore-training-authoring)
-[![xrcore-voice](https://img.shields.io/badge/GitHub-voice-059669?style=flat-square)](https://github.com/splibiplay/xrcore-voice)
-[![xrcore-visionplus](https://img.shields.io/badge/GitHub-vision--plus-0f766e?style=flat-square)](https://github.com/splibiplay/xrcore-visionplus)
-[![xrcore-llbridge](https://img.shields.io/badge/GitHub-llbridge-4f46e5?style=flat-square)](https://github.com/splibiplay/xrcore-llbridge)
-[![xrcore-analytics](https://img.shields.io/badge/GitHub-analytics-d97706?style=flat-square)](https://github.com/splibiplay/xrcore-analytics)
-[![xrcore-ai](https://img.shields.io/badge/GitHub-xrcore--ai-9333ea?style=flat-square)](https://github.com/splibiplay/xrcore-ai)
-[![xrcore-ai-mcp](https://img.shields.io/badge/GitHub-xrcore--ai--mcp-7c3aed?style=flat-square)](https://github.com/splibiplay/xrcore-ai-mcp)
+- [XRCore Hub](https://github.com/splibiplay/splibiplay)
+- [xrcore-sdk](https://github.com/splibiplay/xrcore-sdk)
+- [xrcore-context](https://github.com/splibiplay/xrcore-context)
+- [xrcore-training-toolkit](https://github.com/splibiplay/xrcore-training-toolkit)
+- [xrcore-assessment](https://github.com/splibiplay/xrcore-assessment)
+- [xrcore-training-authoring](https://github.com/splibiplay/xrcore-training-authoring)
+- [xrcore-voice](https://github.com/splibiplay/xrcore-voice)
+- [xrcore-visionplus](https://github.com/splibiplay/xrcore-visionplus)
+- [xrcore-llbridge](https://github.com/splibiplay/xrcore-llbridge)
+- [xrcore-ai](https://github.com/splibiplay/xrcore-ai)
+- [xrcore-ai-mcp](https://github.com/splibiplay/xrcore-ai-mcp)
+- [xrcore-agents](https://github.com/splibiplay/xrcore-agents)
+- [xrcore-analytics](https://github.com/splibiplay/xrcore-analytics)
 
 ## Documentation
 
